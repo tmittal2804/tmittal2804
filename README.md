@@ -17,10 +17,10 @@ This profile will track my learning journey through college — from coding basi
 ## 📂 Important Repositories
 
 ### 👉 Linux + Commands Repository  
-🔗 *Paste your repo link here*
+🔗 *https://github.com/tmittal2804/Linux_Lab*
 
-### 👉 C / CC Programming Repository  
-🔗 *Paste your repo link here*
+### 👉 C Repository  
+🔗 *https://github.com/tmittal2804/100_Days_of_code*
 
 ---
 
