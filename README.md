@@ -24,7 +24,7 @@ This profile will track my learning journey through college — from coding basi
 
 ---
 
-## 🛠 Tech & Tools I Use
+## 🛠 Tech & Tools 
 - **C / C++**
 - **Linux (Ubuntu / WSL / Kali)**
 - **Git & GitHub**
