@@ -1,5 +1,3 @@
-# 🎓 Tanya Mittal | First Year CSE Student 
-
 Hi! I’m **Tanya**, a first-year **Computer Science Engineering** student with an interest in programming, Linux, and foundational computer science concepts.  
 This profile will track my learning journey through college — from coding basics to system-level understanding.
 
