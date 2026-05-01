@@ -29,7 +29,6 @@ This profile will track my learning journey through college — from coding basi
 ### 👉 Python
 🔗 *https://github.com/tmittal2804/Python_Jupyter*
 
-🔗 *https://github.com/tmittal2804/Python*
 ---
 
 ## 🛠 Tech & Tools 
