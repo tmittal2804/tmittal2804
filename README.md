@@ -14,6 +14,13 @@ This profile will track my learning journey through college — from coding basi
 
 ## 📂 Important Repositories
 
+### 👉 C 
+🔗 *https://github.com/tmittal2804/100_Days_of_code*
+🔗 *https://github.com/tmittal2804/Programming_in_C*
+
+### 👉 Data Structures and Algorithm
+🔗 *https://github.com/tmittal2804/100_days_of-data-structure*
+
 ### 👉 Linux + Commands
 🔗 *https://github.com/tmittal2804/Linux_Lab/blob/main/README.md*
 
@@ -23,10 +30,6 @@ This profile will track my learning journey through college — from coding basi
 🔗 *https://github.com/tmittal2804/Python_Jupyter*
 
 🔗 *https://github.com/tmittal2804/Python*
-
-### 👉 C 
-🔗 *https://github.com/tmittal2804/100_Days_of_code*
-
 ---
 
 ## 🛠 Tech & Tools 
