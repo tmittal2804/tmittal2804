@@ -3,16 +3,16 @@ This profile will track my learning journey through college — from coding basi
 
 ---
 
-## 🚀 About Me
-- 🎓 **1st Year BTech CSE Student – UPES**
-- 🐧 Currently learning **Linux**, **Shell Commands**, and **Operating System basics**
-- 💻 Writing code in **C**, **C++**,**shell** and learning **Git & GitHub**
-- 📚 Exploring DSA, Programming Fundamentals, and CS Core Subjects
-- 🌱 Documenting everything I learn here on GitHub
+## About Me
+- **1st Year BTech CSE Student – UPES**
+- Currently learning **Linux**, **Shell Commands**, and **Operating System basics**
+- Writing code in **C**, **C++**,**shell** and learning **Git & GitHub**
+- Exploring DSA, Programming Fundamentals, and CS Core Subjects
+- Documenting everything I learn here on GitHub
 
 ---
 
-## 📂 Important Repositories
+## Important Repositories
 
 ### 👉 C 
 🔗 *https://github.com/tmittal2804/100_Days_of_code*
@@ -31,12 +31,12 @@ This profile will track my learning journey through college — from coding basi
 
 ---
 
-## 🛠 Tech & Tools 
-- **C / C++**
-- **Linux (Ubuntu / WSL / Kali)**
+## Tech & Tools 
+- **C++**
+- **Linux**
 - **Git & GitHub**
-- **VS Code**
-- **Shell Scripting (Basics)**
+- **Shell Scripting**
+- **Python**
 
 ---
 
@@ -44,7 +44,7 @@ This profile will track my learning journey through college — from coding basi
 - Master C programming fundamentals  
 - Get comfortable with Linux and the command line  
 - Learn Git, GitHub and version control  
-- Start DSA basics  
+- Start DSA 
 - Build small beginner-friendly projects  
 
 ---
