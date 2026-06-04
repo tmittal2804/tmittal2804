@@ -50,7 +50,7 @@ This profile will track my learning journey through college — from coding basi
 ---
 
 ## 📬 Connect With Me
-- ✉️ Email: *your email here*  
-- 🔗 LinkedIn: *your link here*  
+- ✉️ Email: *tmittal6960@gmail.com*  
+- 🔗 LinkedIn: *www.linkedin.com/in/tmittal2804*  
 
 ---
