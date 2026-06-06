@@ -4,7 +4,7 @@ This profile will track my learning journey through college — from coding basi
 ---
 
 ## About Me
-- **1st Year BTech CSE Student – UPES**
+- **2nd Year BTech CSE Student – UPES**
 - Currently learning **Linux**, **Shell Commands**, and **Operating System basics**
 - Writing code in **C**, **C++**,**shell** and learning **Git & GitHub**
 - Exploring DSA, Programming Fundamentals, and CS Core Subjects
