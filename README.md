@@ -4,11 +4,25 @@ This profile will track my learning journey through college — from coding basi
 ---
 
 ## About Me
-- **2nd Year BTech CSE Student – UPES**
+- **Beginning 2nd Year, BTech CSE Student – UPES**
 - Currently learning **Linux**, **Shell Commands**, and **Operating System basics**
 - Writing code in **C**, **C++**,**shell** and learning **Git & GitHub**
 - Exploring DSA, Programming Fundamentals, and CS Core Subjects
 - Documenting everything I learn here on GitHub
+
+---
+
+## Featured Project
+
+### ❤️ Heart Disease Risk Prediction
+Developed a machine learning system to predict heart disease risk by analyzing patient medical attributes. Compared multiple classification algorithms including Logistic Regression, Decision Tree, Random Forest, and SVM to identify the best-performing model.
+
+**Tech Stack:** Python • Scikit-Learn • Pandas • NumPy • Matplotlib • Seaborn
+
+🔗 *https://github.com/tmittal2804/Projects/blob/main/Risk_Prediction.md*
+🔗 *https://github.com/tmittal2804/Projects/blob/main/Risk_Prediction.ipynb*
+
+- It was observed that the Random Forest algorithm gave the highest accuracy of 95.76% and cross-validation accuracy of 96.07%, which indicates that the model performs well and is stable
 
 ---
 
