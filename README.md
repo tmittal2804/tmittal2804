@@ -1,15 +1,15 @@
-Hi! I’m **Tanya**, a second year **Computer Science Engineering** student with an interest in programming, Linux, and foundational computer science concepts.  
+Hi! I’m **Tanya**, a second year **Computer Science Engineering** student with an interest in programming, Linux, AI, ML, Cybersecurity, Digital Forensics and foundational computer science concepts.  
 This profile will track my learning journey through college — from coding basics to system-level understanding.
 
 ---
 
 ## About Me
-- **Beginning 2nd Year, BTech CSE Student – UPES**
-- Currently learning **Linux**, **Shell Commands**, and **Operating System basics**
-- Writing code in **C**, **C++**,**shell** and learning **Git & GitHub**
-- Exploring DSA, Programming Fundamentals, and CS Core Subjects
-- Documenting everything I learn here on GitHub
-
+- BTech CSE Student (2nd Year) – UPES
+- Currently strengthening fundamentals in Data Structures & Algorithms (DSA) and core Computer Science subjects
+- Exploring Web Development (frontend + backend basics) alongside problem solving
+- Working with C, C++, Python, Shell Scripting, and improving proficiency in programming fundamentals
+- using Linux, Operating Systems concepts, Git & GitHub for version control and collaboration
+  
 ---
 
 ## Featured Project
