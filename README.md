@@ -14,6 +14,9 @@ This profile will track my learning journey through college — from coding basi
 
 ## Important Repositories
 
+### 👉 Projects
+🔗 *https://github.com/tmittal2804/Projects*
+
 ### 👉 C 
 🔗 *https://github.com/tmittal2804/100_Days_of_code*
 🔗 *https://github.com/tmittal2804/Programming_in_C*
