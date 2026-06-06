@@ -20,6 +20,7 @@ Developed a machine learning system to predict heart disease risk by analyzing p
 **Tech Stack:** Python • Scikit-Learn • Pandas • NumPy • Matplotlib • Seaborn
 
 🔗 *https://github.com/tmittal2804/Projects/blob/main/Risk_Prediction.md*
+
 🔗 *https://github.com/tmittal2804/Projects/blob/main/Risk_Prediction.ipynb*
 
 - It was observed that the Random Forest algorithm gave the highest accuracy of 95.76% and cross-validation accuracy of 96.07%, which indicates that the model performs well and is stable
